@@ -1,0 +1,5 @@
+.build/
+.DS_Store
+.claude/
+ColorPicker.app/Contents/MacOS/
+ColorPicker.app/Contents/_CodeSignature/
